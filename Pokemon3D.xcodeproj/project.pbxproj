@@ -8,22 +8,22 @@
 
 /* Begin PBXBuildFile section */
 		E40992082296991B0096B2FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40992072296991B0096B2FD /* AppDelegate.swift */; };
-		E409920A2296991B0096B2FD /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = E40992092296991B0096B2FD /* art.scnassets */; };
 		E409920C2296991B0096B2FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E409920B2296991B0096B2FD /* ViewController.swift */; };
 		E409920F2296991B0096B2FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E409920D2296991B0096B2FD /* Main.storyboard */; };
 		E40992112296991B0096B2FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40992102296991B0096B2FD /* Assets.xcassets */; };
 		E40992142296991B0096B2FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E40992122296991B0096B2FD /* LaunchScreen.storyboard */; };
+		E41B0CD32296C91600988F41 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = E41B0CD22296C91600988F41 /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E40992042296991B0096B2FD /* Pokemon3D.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pokemon3D.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E40992072296991B0096B2FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E40992092296991B0096B2FD /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		E409920B2296991B0096B2FD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E409920E2296991B0096B2FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E40992102296991B0096B2FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E40992132296991B0096B2FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E40992152296991B0096B2FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E41B0CD22296C91600988F41 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +59,10 @@
 				E40992072296991B0096B2FD /* AppDelegate.swift */,
 				E409920B2296991B0096B2FD /* ViewController.swift */,
 				E409920D2296991B0096B2FD /* Main.storyboard */,
-				E40992092296991B0096B2FD /* art.scnassets */,
 				E40992102296991B0096B2FD /* Assets.xcassets */,
 				E40992122296991B0096B2FD /* LaunchScreen.storyboard */,
 				E40992152296991B0096B2FD /* Info.plist */,
+				E41B0CD22296C91600988F41 /* art.scnassets */,
 			);
 			path = Pokemon3D;
 			sourceTree = "<group>";
@@ -125,8 +125,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E409920A2296991B0096B2FD /* art.scnassets in Resources */,
 				E40992142296991B0096B2FD /* LaunchScreen.storyboard in Resources */,
+				E41B0CD32296C91600988F41 /* art.scnassets in Resources */,
 				E40992112296991B0096B2FD /* Assets.xcassets in Resources */,
 				E409920F2296991B0096B2FD /* Main.storyboard in Resources */,
 			);
