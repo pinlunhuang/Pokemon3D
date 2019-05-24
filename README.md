@@ -30,3 +30,6 @@ Screenshots
 
 - When the card plane is detected ↓
 <img src="https://github.com/pinlunhuang/Pokemon3D/blob/master/Pokemon3D/Screenshots/IMG_0418.PNG" width="414" height="896" />
+
+- Show Sylveon Model instead
+<img src="https://github.com/pinlunhuang/Pokemon3D/blob/master/Pokemon3D/Screenshots/IMG_0424.PNG" width="414" height="896" />
